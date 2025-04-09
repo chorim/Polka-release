@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/df0150ea-18d4-4f90-b6ee-30e1e639b7a1
 
 ## Installation
 
-1. Download the latest version from [Polka Download Link](#).
+1. Download the latest version from [Polka Download Link](https://github.com/user-attachments/files/19669013/Polka.zip).
 2. Move the downloaded `.app` file to your Applications folder.
 3. Launch Polka from your Applications folder.
 
