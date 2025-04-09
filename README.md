@@ -2,6 +2,16 @@
 
 Polka is a powerful macOS application that allows you to edit any running app in real-time and compare the live view with pre-captured views. It is designed to help developers and designers quickly modify and test app UI elements.
 
+## Demo
+### **View Comparison**
+
+https://github.com/user-attachments/assets/f94d0925-33ee-4bd9-ae79-85266e07ffab
+
+### **Real-Time Editing**
+
+https://github.com/user-attachments/assets/df0150ea-18d4-4f90-b6ee-30e1e639b7a1
+
+
 ## Key Features
 
 - **Real-Time Editing**: Modify UI elements of any running app in real-time.
